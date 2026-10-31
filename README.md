@@ -1,51 +1,57 @@
-# Hi, I'm Miguel Miranda 👋
+# Miguel Miranda
 
-I'm a Software Development Engineering student from El Salvador, interested in backend development, databases, and software architecture.
+**Software Development Engineering Student | Backend Development**
 
-I enjoy building applications that solve real problems and learning how to make software more reliable, maintainable, and efficient.
+[English](#english) · [Español](#español) · [LinkedIn](https://www.linkedin.com/in/miguel-mejia-5bb98a329/)
 
-### Technologies I work with
+### Tech stack
 
-- **Backend:** C#, .NET, ASP.NET Core, Python, FastAPI
-- **Databases:** SQL Server, SQLite
-- **Frontend:** Flutter Web, HTML, CSS, JavaScript
-- **Other tools:** Entity Framework Core, Git, GitHub, Visual Studio, VS Code
-
-### What I've worked on
-
-I've developed projects involving inventory and sales management, REST APIs, relational databases, and business applications.
-
-These projects have helped me gain experience in software design, database management, authentication, and application development.
-
-### What I'm currently focused on
-
-I'm continuing to improve my skills in C# and .NET, backend architecture, and software development practices.
-
-My goal is to start my professional career as a backend developer and keep growing through real-world experience.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-# Hola, soy Miguel Miranda 👋
+## English
 
-Soy estudiante de Ingeniería en Desarrollo de Software en El Salvador. Me interesa principalmente el desarrollo backend, las bases de datos y la arquitectura de software.
+I'm a Software Development Engineering student from El Salvador. I mostly work with C# and .NET, and I'm interested in backend development, databases, and business software.
 
-Me gusta desarrollar aplicaciones que resuelvan problemas reales y aprender a construir sistemas que sean fáciles de mantener y mejorar.
+### Featured project: ArteInventariado
 
-### Tecnologías con las que trabajo
+**ArteInventariado** is an inventory and point-of-sale application I've been building for a real store. It's a desktop system developed with **C# / .NET 8, Windows Forms, Entity Framework Core, and SQLite**.
 
-- **Backend:** C#, .NET, ASP.NET Core, Python, FastAPI
-- **Bases de datos:** SQL Server, SQLite
-- **Frontend:** Flutter Web, HTML, CSS, JavaScript
-- **Otras herramientas:** Entity Framework Core, Git, GitHub, Visual Studio, VS Code
+It includes product and stock management, sales, purchases, cash register operations, user roles, and reports. Working on it has taught me a lot about building software around actual day-to-day needs.
 
-### Proyectos en los que he trabajado
+The source repository is currently private. I want to share a public version without real business data or sensitive configuration.
 
-He desarrollado proyectos relacionados con sistemas de inventario y ventas, APIs REST, bases de datos relacionales y aplicaciones de gestión empresarial.
+### What I'm working on
 
-Estos proyectos me han permitido adquirir experiencia en diseño de software, manejo de bases de datos, autenticación y desarrollo de aplicaciones.
+I'm improving my backend skills with ASP.NET Core and SQL Server, while learning more about application architecture, APIs, and data synchronization.
 
-### En qué estoy enfocado actualmente
+---
 
-Continúo fortaleciendo mis conocimientos en C# y .NET, arquitectura backend y buenas prácticas de desarrollo.
+## Español
 
-Mi objetivo es iniciar mi carrera profesional como desarrollador backend y seguir creciendo a través de la experiencia en proyectos reales.
+Soy estudiante de Ingeniería en Desarrollo de Software en El Salvador. Trabajo principalmente con C# y .NET, y me interesan el desarrollo backend, las bases de datos y los sistemas de gestión.
+
+### Proyecto destacado: ArteInventariado
+
+**ArteInventariado** es un sistema de inventario y punto de venta que he desarrollado para una tienda real. Es una aplicación de escritorio creada con **C# / .NET 8, Windows Forms, Entity Framework Core y SQLite**.
+
+Cuenta con gestión de productos e inventario, ventas, compras, caja, roles de usuario y reportes. Este proyecto me ha permitido aprender bastante sobre cómo desarrollar software para necesidades del día a día.
+
+Por ahora, el repositorio del código es privado. Me gustaría compartir una versión pública sin datos reales del negocio ni configuraciones sensibles.
+
+### En qué estoy trabajando
+
+Sigo mejorando mis conocimientos en backend con ASP.NET Core y SQL Server, además de profundizar en arquitectura de aplicaciones, APIs y sincronización de datos.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/miguel-mejia-5bb98a329/) · [GitHub](https://github.com/MirandaMejia02)
